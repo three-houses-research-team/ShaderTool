@@ -4,7 +4,7 @@ Shader utility for G1M files
 ## Usage
 
 ```
-ShaderTool.exe original.g1m reference.g1m
+ShaderTool.exe custom.g1m original.g1m
 ```
 
 Then enter the indices as asked. You can enter several ones separated by a whitespace.
